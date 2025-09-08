@@ -27,7 +27,7 @@ Currently focused on improving my **Node.js backend skills** while creating prac
 
 ## 📂 Featured Projects
 - 🌦️ [Weather App](https://github.com/tkdenge/cloudleaf) – Simple weather forecast app using OpenWeather API   
-- 📝 [Portfolio Website](https://github.com/tkdenge) – Personal web portfolio showcasing my projects  
+- 📝 [Portfolio Website](https://github.com/tkdenge/tkdengeportfolio) – Personal web portfolio showcasing my projects  
 
 ---
 
