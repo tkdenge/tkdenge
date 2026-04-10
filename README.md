@@ -31,7 +31,7 @@ Tools: Git, GitHub, VS Code, Microsoft Office
 ---
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/tkdenge/)  
+- LinkedIn: https://www.linkedin.com/in/tkdenge
 - Email: tkdenge3@gmail.com
 
 ---
