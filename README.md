@@ -17,10 +17,10 @@ Currently focused on improving my Express.js backend skills while creating pract
 ---
 
 ## Tech Stack
-Programming: JavaScript, Python, C++
-Web Development: HTML, CSS, React, Node.js, Express.js
-Databases: MongoDB, SQL
-Tools: Git, GitHub, VS Code, Microsoft Office
+- **Programming:** JavaScript, Python, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code, Microsoft Office
 
 ---
 
