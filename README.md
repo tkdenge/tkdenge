@@ -20,7 +20,7 @@ Currently focused on improving my **Node.js backend skills** while creating prac
 **Languages:** JavaScript, HTML, CSS  
 **Frontend:** React.js
 
-**Backend:** Node.js, Express.js  
+Node.js, Express.js  
 **Databases:** MongoDB  
 **Tools:** Git, VS Code 
 
