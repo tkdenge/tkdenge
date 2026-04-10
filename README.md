@@ -18,9 +18,9 @@ Currently focused on improving my **Node.js backend skills** while creating prac
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, HTML, CSS  
-**Frontend:** React 
-**Backend:** Node.js, Express  
-**Databases:** MongoDB (learning)  
+**Frontend:** React.js
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB  
 **Tools:** Git, VS Code 
 
 ---
