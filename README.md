@@ -1,10 +1,10 @@
 # Hi there, I'm TK Denge 👋
 
-💻 **Web Developer**
+**Full Stack Web Developer**
 
 Welcome to my GitHub profile!  
-I enjoy building **web applications** and experimenting with modern tools and frameworks.  
-Currently focused on improving my **Node.js backend skills** while creating practical projects.  
+I enjoy building web applications and experimenting with modern tools and frameworks.  
+Currently focused on improving my Express.js backend skills while creating practical projects.  
 
 ---
 
@@ -17,12 +17,10 @@ Currently focused on improving my **Node.js backend skills** while creating prac
 ---
 
 ## Tech Stack
-**Languages:** JavaScript, HTML, CSS  
-**Frontend:** React.js
-**Backend:**
-Node.js, Express.js  
-**Databases:** MongoDB  
-**Tools:** Git, VS Code 
+Programming: JavaScript, Python, C++
+Web Development: HTML, CSS, React, Node.js, Express.js
+Databases: MongoDB, SQL
+Tools: Git, GitHub, VS Code, Microsoft Office
 
 ---
 
