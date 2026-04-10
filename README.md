@@ -25,9 +25,9 @@ Currently focused on improving my Express.js backend skills while creating pract
 ---
 
 ## Featured Projects
-- [Job Tracker App](https://applyhire.onrender.com/) – full-stack job tracking application that helps users manage and monitor their job applications in one place.
-- [Weather App](https://cloudleaf.netlify.app/) – Simple weather forecast app using OpenWeather API   
-- [Portfolio Website](https://tkdenge.netlify.app/) – Personal web portfolio showcasing my projects
+- [Job Tracker App](https://applyhire.onrender.com/) - full-stack job tracking application that helps users manage and monitor their job applications in one place.
+- [Weather App](https://cloudleaf.netlify.app/) - Simple weather forecast app using OpenWeather API   
+- [Portfolio Website](https://tkdenge.netlify.app/) - Personal web portfolio showcasing my projects
 
 ---
 
