@@ -9,10 +9,9 @@ Currently focused on improving my Express.js backend skills while creating pract
 ---
 
 ## About Me
-- Currently learning **deployment & cloud hosting**  
+- Currently learning **cloud hosting**  
 - Building a **PDF Tools App** (merge, split, convert PDFs)  
-- Exploring **AI development**  
-- Goal: Become a well-rounded **full-stack developer**  
+- Exploring **AI development**   
 
 ---
 
