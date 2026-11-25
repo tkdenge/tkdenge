@@ -2,64 +2,101 @@
 
 **Full-Stack Software Developer | UI/UX Designer**
 
-I'm a Full-Stack Software Developer and UI/UX Designer based in South Africa, with a BSc in Computing from the University of South Africa (UNISA), specialising in Computer Science and Information Systems.
+I'm a Full-Stack Software Developer and UI/UX Designer based in Johannesburg, South Africa, with a BSc in Computing from the University of South Africa (UNISA), specialising in Computer Science and Information Systems.
 
-I design and develop responsive websites, web applications and backend systems. My work focuses on building practical, maintainable solutions with intuitive interfaces and reliable functionality.
+I have practical experience developing responsive websites, web applications, REST APIs and database-driven systems. My work spans interface design, frontend and backend development, authentication, automated testing and deployment.
 
 ## Technical Skills
 
+**Programming Languages**
+- TypeScript, JavaScript, Python, C++, SQL
+
 **Frontend Development**
-- HTML5, CSS3, JavaScript, TypeScript
-- React, Next.js, Tailwind CSS
+- React, Next.js, HTML5, CSS3
+- Tailwind CSS, Framer Motion
 
 **Backend Development**
-- Node.js, Express.js
-- REST APIs, JWT Authentication
-- WebSockets (Socket.IO), Swagger/OpenAPI
+- Node.js, Express.js, REST APIs
+- JWT Authentication, Role-Based Access Control (RBAC)
+- Socket.IO, WebSockets
 
 **Databases**
 - MySQL, MongoDB, Sequelize
 
 **UI/UX Design**
 - Figma, Wireframing, Prototyping
-- Responsive Design, User-Centred Design
+- Responsive Interface Design, User-Centred Design
 
-**Tools & Platforms**
-- Git, GitHub, Postman, VS Code
+**Testing & Documentation**
+- Jest, Supertest, Postman
+- Swagger/OpenAPI
+
+**Development Tools & Deployment**
+- Git, GitHub, GitHub Actions, VS Code
 - Vercel, Netlify, Render
+
+## Professional Experience
+
+### Software Developer Intern — HIS Group IT
+
+*May 2026 - October 2026 | Remote*
+
+- Developed client websites and application interfaces using Next.js, React, TypeScript and Tailwind CSS.
+- Implemented backend functionality and REST API integrations using Node.js, Express.js, Sequelize and MySQL.
+- Contributed to authentication, role-based access control and operational workflows for an automotive workshop management system.
+- Developed recruitment management interfaces with applicant filtering, detailed views and pagination.
 
 ## Featured Projects
 
-### [Rams24 Cleaning Services](https://www.rams24cleaning.co.za/)
-A responsive business website showcasing cleaning services, with customer enquiry functionality.
+### [Delivery Ka Speed](https://www.deliverykaspeed.com/)
 
-**Stack:** Next.js, React, Tailwind CSS
+Contributed to the development of public-facing website pages and internal recruitment management functionality for a logistics company.
+
+- Developed Careers and Collection Points pages.
+- Built administrative applicant-management interfaces with filtering, pagination and detailed applicant views.
+- Integrated frontend functionality with backend APIs.
+- Contributed to server-side functionality and REST API documentation.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, Swagger/OpenAPI
+
+### [ApplyHire](www://applyhire.onrender.com/)
+
+A full-stack job application tracker that allows users to organise and manage their job applications.
+
+- Implemented JWT authentication, protected REST API routes and persistent MongoDB storage.
+- Developed automated backend tests using Jest and Supertest with an isolated MongoDB test environment.
+- Configured GitHub Actions for automated testing and deployed the application to Render.
+
+**Stack:** React, Node.js, Express.js, MongoDB, JWT, Jest, Supertest, GitHub Actions
+
+**Repository:** [github.com/tkdenge/applyhire](https://github.com/tkdenge/applyhire)
 
 ### [Real Sound Farm](https://www.realsoundfarm.co.za/)
-A website redesign for an independent music and artist management company, featuring artist profiles, services and contact functionality.
+
+Redesigned and developed a multi-page website for an independent music and artist management company.
+
+- Developed responsive artist profiles, management services and booking enquiry pages.
+- Implemented contact form functionality and branded email templates.
+- Configured and deployed the website to the client's hosting environment.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS
 
-### [Delivery Ka Speed](https://www.deliverykaspeed.com/)
-A business website with careers, collection points and backend-integrated applicant management functionality.
+### [Rams24 Cleaning Services](https://www.rams24cleaning.co.za/)
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js
+Designed and developed a responsive business website presenting the company's cleaning services.
 
-### [ApplyHire](https://applyhire.onrender.com/)
-A full-stack job application tracking platform that helps users organise and monitor their job applications.
+- Developed service-focused page layouts.
+- Designed the company logo and favicon.
+- Integrated Netlify Forms and WhatsApp contact links for customer enquiries.
 
-**Stack:** React, Node.js, Express.js, MongoDB
-
-### [CloudLeaf](https://cloudleaf.netlify.app/)
-A weather application providing weather information through the OpenWeather API.
-
-**Stack:** React, JavaScript, OpenWeather API
+**Stack:** Next.js, React, Tailwind CSS, Netlify Forms
 
 ## Services
 
-- **UI/UX Design:** Interface design, wireframing and prototyping.
-- **Website Development:** Business websites, landing pages and website redesigns.
-- **Web Application Development:** Custom applications, REST APIs and database integrations.
+- **Website Development:** Business websites, portfolio websites, landing pages and website redesigns.
+- **Custom Software Development:** Management systems, booking platforms, customer portals and admin dashboards.
+- **UI/UX Design:** Visual design, user research, wireframing and interactive prototypes.
+- **Backend & API Development:** REST APIs, database design, system integrations and server-side logic.
 
 ## Contact
 
